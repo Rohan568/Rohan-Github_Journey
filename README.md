@@ -1,2 +1,3 @@
 # Rohan-Github_Journey
-this is my journey
+This is my Journey.
+Author - Rohan Savnani
